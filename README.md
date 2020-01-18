@@ -22,4 +22,4 @@ If you need to go inside the container you can use the exec command:
 
 docker exec -it <container id> /bin/bash
 
-Now go to localhost:49160, your app response will be displayed
+Now go to localhost:49160, your app response will be displayed as "Hello World"
